@@ -1,0 +1,3 @@
+Hi, a file line.
+The next line.
+Third
